@@ -1,2 +1,2 @@
 # Mining
-124124
+Validate blocks computationally
